@@ -3,7 +3,7 @@
 http://tokai-business.github.io/
 
 #サイト作成手段
-Jetstrapで作成
+Jetstrapで作成  
 https://jetstrap.com/
 
 #Thanks
